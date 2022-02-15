@@ -41,7 +41,7 @@ const schedule = async (p) => {
 
 const enterZipCode = async (p) => {
   await delay(1000);
-  await p.type("[name=postalCode]", "94105");
+  await p.type("[name=postalCode]", "<your zip code>");
 };
 
 const search = async (p) => {
