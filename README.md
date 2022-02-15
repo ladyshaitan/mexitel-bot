@@ -7,3 +7,5 @@ Appointment scheduling bot that retries scheduling an appointment on https://mex
 Replace `<your email>, <your password>, and <your zip code>` with your values
 
 `npm start`
+
+<img src="mexitel-bot-demo.gif">
